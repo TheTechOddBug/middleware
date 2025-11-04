@@ -388,7 +388,7 @@ python ./backend/dev_scripts/make_new_setting.py
 - Enter the setting name in the consitent format.
 - Add the required keys and their types. Enter `done` once you have added all the fields.
 - Update imports and linting.
-- You are good to go :tada"
+- You are good to go 🎉
 - Note: For more non-primitive types in the setting such as uuid, enums etc, you will have to make changes to the generated adaptors.
 
 
